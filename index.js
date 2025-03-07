@@ -5,8 +5,7 @@ const drugs = [
   DrugFactory.createDrug("Doliprane", 20, 30),
   DrugFactory.createDrug("Herbal Tea", 10, 5),
   DrugFactory.createDrug("Magic Pill", 34, 3),
-  // new Drug("Fervex", 12, 35),
-  // new Drug("Magic Pill", 15, 40),
+  DrugFactory.createDrug("Fervex", 12, 35),
 ];
 const pharmacy = new Pharmacy(drugs);
 
