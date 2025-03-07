@@ -16,4 +16,15 @@ describe("Drug test suite", () => {
     drug.updateExpiresIn();
     expect(drug.expiresIn).toEqual(1);
   });
+
+  it("should never have a negative benefit", () => {
+    drug.benefit = 0;
+    drug.updateBenefit();
+    expect(drug.benefit).toEqual(0);
+  });
+
+  it("should never have a benefit above 50", () => {
+    drug.benefit = 500;
+    expect(drug.benefit).toEqual(50);
+  });
 });
