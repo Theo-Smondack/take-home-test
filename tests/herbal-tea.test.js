@@ -1,4 +1,4 @@
-import { HerbalTea } from "../pharmacy";
+import { HerbalTea } from "../lib/classes/drugs";
 
 const herbalTea = new HerbalTea(2, 20);
 

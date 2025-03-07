@@ -1,10 +1,10 @@
-import { DrugFactory, Pharmacy } from "./pharmacy";
-
 import fs from "fs";
+import { DrugFactory, Pharmacy } from "./lib/classes";
 
 const drugs = [
   DrugFactory.createDrug("Doliprane", 20, 30),
   DrugFactory.createDrug("Herbal Tea", 10, 5),
+  DrugFactory.createDrug("Magic Pill", 34, 3),
   // new Drug("Fervex", 12, 35),
   // new Drug("Magic Pill", 15, 40),
 ];

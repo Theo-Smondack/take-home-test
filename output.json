@@ -10,6 +10,11 @@
         "name": "Herbal Tea",
         "expiresIn": 9,
         "_benefit": 6
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -22,6 +27,11 @@
         "name": "Herbal Tea",
         "expiresIn": 8,
         "_benefit": 7
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -34,6 +44,11 @@
         "name": "Herbal Tea",
         "expiresIn": 7,
         "_benefit": 8
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -46,6 +61,11 @@
         "name": "Herbal Tea",
         "expiresIn": 6,
         "_benefit": 9
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -58,6 +78,11 @@
         "name": "Herbal Tea",
         "expiresIn": 5,
         "_benefit": 10
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -70,6 +95,11 @@
         "name": "Herbal Tea",
         "expiresIn": 4,
         "_benefit": 11
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -82,6 +112,11 @@
         "name": "Herbal Tea",
         "expiresIn": 3,
         "_benefit": 12
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -94,6 +129,11 @@
         "name": "Herbal Tea",
         "expiresIn": 2,
         "_benefit": 13
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -106,6 +146,11 @@
         "name": "Herbal Tea",
         "expiresIn": 1,
         "_benefit": 14
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -118,6 +163,11 @@
         "name": "Herbal Tea",
         "expiresIn": 0,
         "_benefit": 15
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -130,6 +180,11 @@
         "name": "Herbal Tea",
         "expiresIn": -1,
         "_benefit": 16
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -142,6 +197,11 @@
         "name": "Herbal Tea",
         "expiresIn": -2,
         "_benefit": 18
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -154,6 +214,11 @@
         "name": "Herbal Tea",
         "expiresIn": -3,
         "_benefit": 20
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -166,6 +231,11 @@
         "name": "Herbal Tea",
         "expiresIn": -4,
         "_benefit": 22
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -178,6 +248,11 @@
         "name": "Herbal Tea",
         "expiresIn": -5,
         "_benefit": 24
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -190,6 +265,11 @@
         "name": "Herbal Tea",
         "expiresIn": -6,
         "_benefit": 26
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -202,6 +282,11 @@
         "name": "Herbal Tea",
         "expiresIn": -7,
         "_benefit": 28
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -214,6 +299,11 @@
         "name": "Herbal Tea",
         "expiresIn": -8,
         "_benefit": 30
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -226,6 +316,11 @@
         "name": "Herbal Tea",
         "expiresIn": -9,
         "_benefit": 32
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -238,6 +333,11 @@
         "name": "Herbal Tea",
         "expiresIn": -10,
         "_benefit": 34
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -250,6 +350,11 @@
         "name": "Herbal Tea",
         "expiresIn": -11,
         "_benefit": 36
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -262,6 +367,11 @@
         "name": "Herbal Tea",
         "expiresIn": -12,
         "_benefit": 38
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -274,6 +384,11 @@
         "name": "Herbal Tea",
         "expiresIn": -13,
         "_benefit": 40
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -286,6 +401,11 @@
         "name": "Herbal Tea",
         "expiresIn": -14,
         "_benefit": 42
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -298,6 +418,11 @@
         "name": "Herbal Tea",
         "expiresIn": -15,
         "_benefit": 44
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -310,6 +435,11 @@
         "name": "Herbal Tea",
         "expiresIn": -16,
         "_benefit": 46
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -322,6 +452,11 @@
         "name": "Herbal Tea",
         "expiresIn": -17,
         "_benefit": 48
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -334,6 +469,11 @@
         "name": "Herbal Tea",
         "expiresIn": -18,
         "_benefit": 50
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -346,6 +486,11 @@
         "name": "Herbal Tea",
         "expiresIn": -19,
         "_benefit": 50
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ],
     [
@@ -358,6 +503,11 @@
         "name": "Herbal Tea",
         "expiresIn": -20,
         "_benefit": 50
+      },
+      {
+        "name": "Magic Pill",
+        "expiresIn": 34,
+        "_benefit": 3
       }
     ]
   ]
