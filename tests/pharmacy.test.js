@@ -1,6 +1,9 @@
-import { Drug, HerbalTea, Pharmacy } from "../pharmacy";
+import { Drug, DrugFactory, HerbalTea, Pharmacy } from "../pharmacy";
 
-const drugs = [new Drug("test", 2, 3), new HerbalTea(2, 3)];
+const drugs = [
+  DrugFactory.createDrug("test", 2, 3),
+  DrugFactory.createDrug("Herbal Tea", 2, 3),
+];
 
 describe("Pharmacy", () => {
   it("should decrease the benefit and expiresIn", () => {

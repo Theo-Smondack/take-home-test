@@ -49,6 +49,17 @@ export class HerbalTea extends Drug {
   }
 }
 
+export class DrugFactory {
+  static createDrug(name, expiresIn, benefit) {
+    switch (name) {
+      case "Herbal Tea":
+        return new HerbalTea(expiresIn, benefit);
+      default:
+        return new Drug(name, expiresIn, benefit);
+    }
+  }
+}
+
 export class Pharmacy {
   constructor(drugs = []) {
     this.drugs = drugs;
