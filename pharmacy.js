@@ -4,6 +4,14 @@ export class Drug {
     this.expiresIn = expiresIn;
     this.benefit = benefit;
   }
+
+  updateBenefit() {
+    this.benefit -= 1;
+  }
+
+  updateExpiresIn() {
+    this.expiresIn -= 1;
+  }
 }
 
 export class Pharmacy {
