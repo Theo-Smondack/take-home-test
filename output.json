@@ -20,6 +20,11 @@
         "name": "Fervex",
         "expiresIn": 11,
         "_benefit": 36
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 9,
+        "_benefit": 38
       }
     ],
     [
@@ -42,6 +47,11 @@
         "name": "Fervex",
         "expiresIn": 10,
         "_benefit": 37
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 8,
+        "_benefit": 36
       }
     ],
     [
@@ -64,6 +74,11 @@
         "name": "Fervex",
         "expiresIn": 9,
         "_benefit": 39
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 7,
+        "_benefit": 34
       }
     ],
     [
@@ -86,6 +101,11 @@
         "name": "Fervex",
         "expiresIn": 8,
         "_benefit": 41
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 6,
+        "_benefit": 32
       }
     ],
     [
@@ -108,6 +128,11 @@
         "name": "Fervex",
         "expiresIn": 7,
         "_benefit": 43
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 5,
+        "_benefit": 30
       }
     ],
     [
@@ -130,6 +155,11 @@
         "name": "Fervex",
         "expiresIn": 6,
         "_benefit": 45
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 4,
+        "_benefit": 28
       }
     ],
     [
@@ -152,6 +182,11 @@
         "name": "Fervex",
         "expiresIn": 5,
         "_benefit": 47
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 3,
+        "_benefit": 26
       }
     ],
     [
@@ -174,6 +209,11 @@
         "name": "Fervex",
         "expiresIn": 4,
         "_benefit": 50
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 2,
+        "_benefit": 24
       }
     ],
     [
@@ -196,6 +236,11 @@
         "name": "Fervex",
         "expiresIn": 3,
         "_benefit": 50
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 1,
+        "_benefit": 22
       }
     ],
     [
@@ -218,6 +263,11 @@
         "name": "Fervex",
         "expiresIn": 2,
         "_benefit": 50
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": 0,
+        "_benefit": 20
       }
     ],
     [
@@ -240,6 +290,11 @@
         "name": "Fervex",
         "expiresIn": 1,
         "_benefit": 50
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -1,
+        "_benefit": 18
       }
     ],
     [
@@ -262,6 +317,11 @@
         "name": "Fervex",
         "expiresIn": 0,
         "_benefit": 50
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -2,
+        "_benefit": 16
       }
     ],
     [
@@ -284,6 +344,11 @@
         "name": "Fervex",
         "expiresIn": -1,
         "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -3,
+        "_benefit": 14
       }
     ],
     [
@@ -306,6 +371,11 @@
         "name": "Fervex",
         "expiresIn": -2,
         "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -4,
+        "_benefit": 12
       }
     ],
     [
@@ -328,6 +398,11 @@
         "name": "Fervex",
         "expiresIn": -3,
         "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -5,
+        "_benefit": 10
       }
     ],
     [
@@ -350,6 +425,11 @@
         "name": "Fervex",
         "expiresIn": -4,
         "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -6,
+        "_benefit": 8
       }
     ],
     [
@@ -372,6 +452,11 @@
         "name": "Fervex",
         "expiresIn": -5,
         "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -7,
+        "_benefit": 6
       }
     ],
     [
@@ -394,6 +479,11 @@
         "name": "Fervex",
         "expiresIn": -6,
         "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -8,
+        "_benefit": 4
       }
     ],
     [
@@ -416,6 +506,11 @@
         "name": "Fervex",
         "expiresIn": -7,
         "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -9,
+        "_benefit": 2
       }
     ],
     [
@@ -437,6 +532,11 @@
       {
         "name": "Fervex",
         "expiresIn": -8,
+        "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -10,
         "_benefit": 0
       }
     ],
@@ -460,6 +560,11 @@
         "name": "Fervex",
         "expiresIn": -9,
         "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -11,
+        "_benefit": 0
       }
     ],
     [
@@ -481,6 +586,11 @@
       {
         "name": "Fervex",
         "expiresIn": -10,
+        "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -12,
         "_benefit": 0
       }
     ],
@@ -504,6 +614,11 @@
         "name": "Fervex",
         "expiresIn": -11,
         "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -13,
+        "_benefit": 0
       }
     ],
     [
@@ -525,6 +640,11 @@
       {
         "name": "Fervex",
         "expiresIn": -12,
+        "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -14,
         "_benefit": 0
       }
     ],
@@ -548,6 +668,11 @@
         "name": "Fervex",
         "expiresIn": -13,
         "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -15,
+        "_benefit": 0
       }
     ],
     [
@@ -569,6 +694,11 @@
       {
         "name": "Fervex",
         "expiresIn": -14,
+        "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -16,
         "_benefit": 0
       }
     ],
@@ -592,6 +722,11 @@
         "name": "Fervex",
         "expiresIn": -15,
         "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -17,
+        "_benefit": 0
       }
     ],
     [
@@ -613,6 +748,11 @@
       {
         "name": "Fervex",
         "expiresIn": -16,
+        "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -18,
         "_benefit": 0
       }
     ],
@@ -636,6 +776,11 @@
         "name": "Fervex",
         "expiresIn": -17,
         "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -19,
+        "_benefit": 0
       }
     ],
     [
@@ -657,6 +802,11 @@
       {
         "name": "Fervex",
         "expiresIn": -18,
+        "_benefit": 0
+      },
+      {
+        "name": "Dafalgan",
+        "expiresIn": -20,
         "_benefit": 0
       }
     ]
