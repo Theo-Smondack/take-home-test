@@ -17,8 +17,17 @@ export class Drug {
     return this._benefit;
   }
 
+  updateValues() {
+    this.updateBenefit();
+    this.updateExpiresIn();
+  }
+
   updateBenefit() {
-    this.benefit -= 1;
+    if (this.expiresIn < 0) {
+      this.benefit -= 2;
+    } else {
+      this.benefit -= 1;
+    }
   }
 
   updateExpiresIn() {
