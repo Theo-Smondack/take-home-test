@@ -1,4 +1,4 @@
-import { Drug } from "./pharmacy";
+import { Drug } from "../pharmacy";
 
 const drug = new Drug("test", 2, 20);
 
